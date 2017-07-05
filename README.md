@@ -1,9 +1,5 @@
 # hello-world
-This Document you can consider as a Statement of Work (SOW)
-We need to follow the SDLC steps for better understanding of the project
-Requirement gathering and analysis
-Design
-Implementation or coding
-Testing
-Deployment
-Maintenance
+Hi Engineers,
+
+Rohin here, I like to find the bugs and highlight those concepts which may have errors
+To do the testing from the initial level can make project error free.
